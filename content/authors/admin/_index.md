@@ -53,6 +53,14 @@ email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
+
+gallery_item:
+- album: gallery
+  image: background.jpg
+- album: gallery
+  image: corrottofront.jpg
 ---
 
-Arista veneto nato a Mira nel Dicembre 1955; insegnante di scuola media superiore, ha sempre manifestato una passione per l'arte e la creatività, che si è espressa principalmente nella pittura. Ha frequentato numerosi corsi di pittura e partecipato a mostre collettive. Allievo del maestro Maurizio Piovan, vive e dipinge a Mira, nella riviera del Brenta.
+Artista veneto nato a Mira nel Dicembre 1955; insegnante di scuola media superiore, ha sempre manifestato una passione per l'arte e la creatività, che si è espressa principalmente nella pittura. Ha frequentato numerosi corsi di pittura e partecipato a mostre collettive. Allievo del maestro Maurizio Piovan, vive e dipinge a Mira, nella riviera del Brenta.
+
+{{< gallery >}}

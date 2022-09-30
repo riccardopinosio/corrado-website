@@ -5,18 +5,34 @@
 
 [[main]]
   name = "Home"
-  url = "#about"
+  url = "#"
   weight = 10
+
+# da finire
+# [[main]]
+#   name = "Gallery"
+#   url = "/gallery"
+#   weight = 15
+
+[[main]]
+  name = "Colore"
+  url = "#colore"
+  weight = 20
+
+[[main]]
+  name = "Parole"
+  url = "#parole"
+  weight = 30
+
+[[main]]
+  name = "Full bio"
+  url = "#fullbio"
+  weight = 40
 
 [[main]]
   name = "Contatti"
   url = "#contatti"
   weight = 60
-
-[[main]]
-  name = "Opere"
-  url = "#opere"
-  weight = 80
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
