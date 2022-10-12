@@ -61,6 +61,6 @@ gallery_item:
   image: corrottofront.jpg
 ---
 
-Artista veneto nato a Mira nel Dicembre 1955; insegnante di scuola media superiore, ha sempre manifestato una passione per l'arte e la creatività, che si è espressa principalmente nella pittura. Ha frequentato numerosi corsi di pittura e partecipato a mostre collettive. Allievo del maestro Maurizio Piovan, vive e dipinge a Mira, nella riviera del Brenta.
+Pittore e scrittore veneto, vive a Mira (Venezia) nella Riviera del Brenta. Allievo del maestro Maurizio Piovan, dopo una fase figurativa si avvicina al surrealismo e all'astrattismo, corrente che gli consente di esprimere una pittura misteriosa e simbolica che coinvolge la parte emozionale dell'essere umano. In campo letterario ha pubblicato diversi racconti in varie riviste del settore. Nel 2022 ha vinto il premio Cimitile con il romanzo "Il Corrotto", pubblicato da Guida editori (disponibile nelle librerie e sulle piattaforme online quali Amazon, Mondadori, Hoepli, ...).
 
 {{< gallery >}}
