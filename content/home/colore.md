@@ -22,6 +22,12 @@ design:
 
 gallery_item:
 - album: gallery
+  image: 22_Visione circolare (100x100) acrilico su tela 2022.jpg
+  caption: Visione circolare (100x100) acrilico su tela 2022.jpg
+- album: gallery
+  image: 21_Guizzo fugace della mente durante il lockdown (70X100) acrilico su tela 2021.jpg
+  caption: Guizzo fugace della mente durante il lockdown (70X100) acrilico su tela 2021
+- album: gallery
   image: 20_Il mio amico (80x80) acrilico su tela 2020.jpg
   caption: Il mio amico (80x80) acrilico su tela 2020
 - album: gallery
