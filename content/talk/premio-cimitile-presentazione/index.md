@@ -61,3 +61,5 @@ projects: []
 ---
 
 {{< figure library="true" src="corrotto_presentazione_1.jpg" class="alignleft">}}
+
+{{< video src="presentazione_video.mp4" controls="yes" >}}
