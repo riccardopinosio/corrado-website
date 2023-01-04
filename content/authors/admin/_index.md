@@ -62,5 +62,6 @@ gallery_item:
 ---
 
 Pittore e scrittore veneto, vive a Mira (Venezia) nella Riviera del Brenta. Allievo del maestro Maurizio Piovan, dopo una fase figurativa si avvicina al surrealismo e all'astrattismo, corrente che gli consente di esprimere una pittura misteriosa e simbolica che coinvolge la parte emozionale dell'essere umano. In campo letterario ha pubblicato diversi racconti in varie riviste del settore. Nel 2022 ha vinto il premio Cimitile con il romanzo "Il Corrotto", pubblicato da Guida editori (disponibile nelle librerie e sulle piattaforme online quali Amazon, Mondadori, Hoepli, ...).
+Per acquistare il libro da amazon cliccare [qui](https://amzn.eu/d/6tpyeA3).
 
 {{< gallery >}}

@@ -1,17 +1,17 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Premiazione Premio Cimitile 2022"
+title: Presentazione de "il Corrotto" (biblioteca pubblica di Oriago)
 event:
 event_url: https://www.fondazionepremiocimitile.it/
-location: Basiliche Paleocristiane di Cimitile (NA)
-summary: Premiazione de "Il corrotto", vincitore premio Cimitile 2022
+location: Biblioteca pubblica di Oriago
+summary: presentazione de "il Corotto", vincitore premio Cimitile 2022
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2022-06-18T15:45:00+01:00
-date_end: 2022-06-18T23:45:00+01:00
-all_day: false
+date: 2022-10-15T15:45:00+01:00
+date_end: 2022-10-15T23:45:00+01:00
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 publishDate: 2022-12-23T15:45:00+01:00
@@ -60,5 +60,8 @@ slides: ""
 projects: []
 ---
 
-{{< figure library="true" src="cimitile1.jpg" class="alignleft">}}
-{{< figure library="true" src="cimitile2.jpg" class="alignright">}}
+{{< figure library="true" src="corrotto-oriago-1.jpg" class="alignleft">}}
+
+{{< figure library="true" src="corrotto-oriago-2.jpg" class="alignleft">}}
+
+{{< figure library="true" src="corrotto-oriago-3.jpg" class="alignleft">}}

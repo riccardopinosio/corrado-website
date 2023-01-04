@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Prima presentazione pubblica de Il Corrotto"
+title: Prima presentazione pubblica de "il Corrotto"
 event:
 event_url: https://www.fondazionepremiocimitile.it/
 location: Palazzo Reale di Napoli (Sala Colapesce)
