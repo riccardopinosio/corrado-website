@@ -42,3 +42,5 @@ Il libro affronta un periodo cruciale della storia recente del nostro paese, evi
 insanabile contrapposizione tra giustizialismo e garantismo tipica della saggistica sul tema. Piuttosto,
 attraverso lo strumento anomalo della narrativa, si propone di rappresentare una vicenda che ha lo scopo
 di catturare il clima dell’epoca.
+
+{{< figure library="true" src="martina_nel_buio_copertina.jpg">}}
