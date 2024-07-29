@@ -36,7 +36,7 @@ Nel 2024 ha pubblicato "Martina nel Buio" (Leonida Edizioni), disponibile nelle 
 Sempre nel 2024 ha pubblicato "Memorie di un prof. in crisi" (Montag edizioni), disponibile nelle librerie e piattaforme online ([Montag](https://www.edizionimontag.it/catalogo/memorie-di-un-prof-in-crisi/), [Feltrinelli](https://www.lafeltrinelli.it/libri/autori/corrado-pinosio), [Amazon](https://www.amazon.it/dp/B0D8RKTKB6), [Hoepli](https://www.hoepli.it/libro/memorie-di-un-prof-in-crisi/9788868927929.html), [IBS](https://www.ibs.it/memorie-di-prof-in-crisi-libro-corrado-pinosio/e/9788868927929)) e le altre piattaforme letterarie.
 
 
-![](immagini/frontCollage.png){width="700" fig-align="center"}
+![](immagini/frontCollage.png){width="600" fig-align="center"}
 
 
 ::: {layout="[[1, 1], [1]]"}
