@@ -1,0 +1,14 @@
+---
+title: Presentazione de "Il Corrotto" alla biblioteca pubblica di Oriago
+author: Corrado Pinosio
+date: 2022-10-15
+categories: [presentazione]
+---
+
+Presentazione de "Il Corrotto" alla biblioteca pubblica di Oriago.
+
+![](../assets/corrotto-oriago-2.jpg){fig-align="center" height="80%"}
+
+![](../assets/corrotto-oriago-1.jpg){fig-align="center" width="80%"}
+
+![](../assets/corrotto-oriago-3.jpg){fig-align="center" height="80%"}

@@ -1,0 +1,31 @@
+project:
+  type: website
+
+website:
+  title: "Colore e parole"
+  site-url: "https://wwww.corradopinosio.com"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: Biografia completa
+      - href: colore.qmd
+        text: Colore
+      - href: parole.qmd
+        text: Parole
+
+format:
+  html:
+    theme: darkly
+    fontsize: 1.5em
+    css: styles.css
+    toc: true
+    grid:
+      sidebar-width: 150px
+      body-width: 2000px
+      margin-width: 300px
+      gutter-width: 1.5rem
+
+
+

@@ -1,0 +1,11 @@
+---
+title: Presentazione "Martina nel buio" 
+author: Corrado Pinosio
+date: 2024-06-06
+categories: [presentazione]
+lightbox: true
+---
+
+Presentazione de "Martina nel buio" (Leonida Edizioni) immerso tra i campi di lavanda dell'azienda "BioMaggi" di Oriago.
+
+![](../assets/biomaggiCollage.png){fig-align="center"}

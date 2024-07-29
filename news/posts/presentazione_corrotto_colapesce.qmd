@@ -1,0 +1,14 @@
+---
+title: Prima presentazione pubblica de "Il Corrotto"
+author: Corrado Pinosio
+date: 2022-10-01
+categories: [presentazione]
+---
+
+Presentazione de "Il Corrotto" al palazzo reale di Napoli, sala Colapesce.
+
+![](../assets/corrotto_presentazione_2.jpg){fig-align="center" width="80%"}
+
+![](../assets/corrotto_presentazione_1.jpg){fig-align="center" height="80%"}
+
+{{< video ../assets/presentazione_video.mp4 >}}

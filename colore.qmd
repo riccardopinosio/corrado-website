@@ -1,0 +1,56 @@
+---
+title: "Colore"
+
+lightbox: true
+---
+
+<em>I punti di forza di Corrado Pinosio sono l'istintiva proposizione a concretizzare l'immagine uscendo dai parametri del figurativo e lasciando spazio all'immaginazione e alla meditazione. Nei suoi dipinti si fa elaborazione vocativa, memoria o ripensamento, modo originale per interpretare il mondo che ci circonda. Corrado Pinosio ha la necessità artistica di un dialogo che si esprime con un continuo alternarsi di stati d'animo inventivi ed una forte esigenza di poesia con vibrazioni nelle tonalità dei colori, nella stesura delle pennellate quasi a cogliere spunti per pensieri fantastici e pieni di intensità. In un'epoca strumentalizzata come la nostra, Pinosio, con le sue opere esprime, parla, comunica agli altri ciò che a lui riesce di "vedere". Si tratta di un artista sensibile che non vuol vedere il traguardo ma ama e apprezza il viaggio che l'arte permette. (Maurizio Piovan, pittore e maestro)<em>
+
+::: {style="display: grid;grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));grid-gap: 1em;"}
+
+![Visione circolare (100x100) acrilico su tela 2022](immagini/22_Visione%20circolare%20(100x100)%20acrilico%20su%20tela%202022.jpg){group="colore"}
+
+![Guizzo fugace della mente durante il lockdown (70X100) acrilico su tela 2021](immagini/21_Guizzo%20fugace%20della%20mente%20durante%20il%20lockdown%20(70X100)%20acrilico%20su%20tela%202021.jpg){group="colore"}
+
+![Il mio amico (80x80) acrilico su tela 2020](immagini/20_Il%20mio%20amico%20(80x80)%20acrilico%20su%20tela%202020.jpg){group="colore"}
+
+![Covid 19 (80x80) acrilico su tela 2020](immagini/19_Covid%2019%20(80x80)%20acrilico%20su%20tela%202020.jpg){group="colore"}
+
+![Nuages (80x80) acrilico su tela 2020](immagini/18_Nuages%20(80x80)%20acrilico%20su%20tela%202020.jpg){group="colore"}
+
+![Tramonto cosmico (90x60) acrilico su tela 2020](immagini/17_Tramonto%20cosmico%20(90x60)%20acrilico%20su%20tela%202020.jpg){group="colore"}
+
+![Avventura cromatica (70x100) acrilico su tela 2019](immagini/16_Avventura%20cromatica%20(70x100)%20acrilico%20su%20tela%202019.jpg){group="colore"}
+
+![Passato e futuro (70x100) tecnica mista su tela 2019](immagini/15_Passato e futuro (70x100) tecnica mista su tela, 2019.jpg){group="colore"}
+
+![Vibrazione sottile (70x100) acrilico su tela, 2019](immagini/14_Vibrazione sottile (70x100) acrilico su tela, 2019.jpg){group="colore"}
+
+![Percorso impervio (80x80) acrilico su tela, 2019](immagini/13_Percorso impervio (80x80) acrilico su tela,2019.jpg){group="colore"}
+
+![La luce all’improvviso (70x100) acrilico su tela, 2018](immagini/12_La luce all'improvviso (70x100) acrilico su tela, 2018.jpg){group="colore"}
+
+![Ascoltando Frank Zappa (60x70) acrilico su tela, 2018](immagini/11_Ascoltando Frank Zappa (60x70) acrilico su tela, 2018.jpg){group="colore"}
+
+![Viaggio senza meta (80x100) tecnica mista su tela, 2018](immagini/10_Viaggio senza meta (80x100) tecnica mista su tela 2018.jpg){group="colore"}
+
+![Pensiero nebuloso ( 80X100) acrilico su tela, 2018](immagini/9_Pensiero%20nebuloso%20(80X100)%20acrilico%20su%20tela%202018.jpg){group="colore"}
+
+
+![Equilibrio stabile (70x100) acrilico su tela, 2017](immagini/8_Equilibrio%20stabile%20(70x100)%20acrilico%20su%20tela%202017.jpg){group="colore"}
+
+![Tentazioni (70x100) acrilico su tela, 2017](immagini/7_Tentazioni%20(70x100)%20acrilico%20su%20tela%202017.jpg){group="colore"}
+
+![Impeto travolgente 2017 (70x100) (acrilico su tela)](immagini/6_Impeto%20travolgente%202017%20(70x100)%20(acrilico%20su%20tela).jpeg){group="colore"}
+
+![Lascia andare (70x100) acrilico su tela, 2017](immagini/5_Lascia%20andare%20%20(70x100)%20acrilico%20su%20tela%202017.jpg){group="colore"}
+
+![Frutti della montagna (70x100) tecnica mista su tela 2017](immagini/4_Frutti%20della%20montagna%20(70x100)%20tecnica%20mista%20su%20tela%202017.jpg){group="colore"}
+
+![Pensando alla montagna (100x100) acrilico su tela, 2017](immagini/3_Pensando%20alla%20montagna%20%20(100x100)%20acrilico%20su%20tela%202017.jpg){group="colore"}
+
+![L’albero (50x60) acrilico su tela 2017](immagini/2_L'albero%20(50x60)%20acrilico%20su%20tela%202017.jpg){group="colore"}
+
+![La Riviera del Brenta (50x70) olio su tela 2011](immagini/1_La%20Riviera%20del%20Brenta%20(50x70)%20olio%20su%20tela%202011.jpg){group="colore"}
+
+:::
